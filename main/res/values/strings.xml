@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CGPA calculator</string>
+    <string name="_2nd_year">2nd Year</string>
+    <string name="_1st_year">1st Year</string>
+    <string name="_3rd_year">3rd Year</string>
+    <string name="_4th_year">4th Year</string>
+    <string name="semester_points">Semester Points</string>
+    <string name="if_zero">*Give 0 (zero) if not available</string>
+    <string name="_1st_sem">1st Sem</string>
+    <string name="_2nd_sem">2nd Sem</string>
+    <string name="_3rd_sem">3rd Sem</string>
+    <string name="_4th_sem">4th Sem</string>
+    <string name="_5th_sem">5th Sem</string>
+    <string name="_6th_sem">6th Sem</string>
+    <string name="_7th_sem">7th Sem</string>
+    <string name="_8th_sem">8th Sem</string>
+    <string name="cgpa">CGPA</string>
+    <string name="clear">Clear</string>
+    <string name="exit">Exit</string>
+</resources>
