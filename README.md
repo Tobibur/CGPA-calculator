@@ -1,2 +1,2 @@
 # CGPA-calculator
-Android app for calculating CGPA for Btech students
+Android application for calculating CGPA for Btech students
